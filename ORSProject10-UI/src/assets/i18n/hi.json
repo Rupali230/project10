@@ -1,3 +1,4 @@
+
 {
   "Title":"स्वागत हे",
   "User" : "उपयोगकर्ता",
@@ -20,6 +21,7 @@
   "College List" : "कॉलेज सूची",
   "Course" : "कोर्स",
   "Select Course": "कोर्स चुने " ,
+  "Select name":"नाम का चयन करें",
   "Add Course" : "कोर्स जोड़ें",
   "Course List" : "पाठ्यक्रम सूची",
   "Student" : "छात्र",
@@ -42,8 +44,16 @@
   "Log Out" : "लॉग आउट",
   "Back" : "पीछे जाए",
   "Update" : "अपडेट करें",
-  
+  "Select Course Name":"पाठ्यक्रम का नाम चुनें",
+  "Select Roll No":"रोल नंबर का चयन करें",
+  "Enter Role Name":"भूमिका का नाम दर्ज करें",
+  "Search Description":"खोज विवरण",
+  "Enter Name":"नाम दर्ज करें",
+  "Enter Phone No.":"फ़ोन नंबर दर्ज करें.",
+  "Select Atleast One Record":"कम से कम एक रिकॉर्ड का चयन करें",
+  "Select Status":"स्थिति का चयन करें",
   "S.No":"क्रमिक संख्या",
+  "Select Student":"छात्र का चयन करें",
   "Image" : "छवि",
   "First Name" : "नाम",
   "Last Name" : "उपनाम",
@@ -223,5 +233,11 @@
 "Invalid ID or Password":"अमान्य आईडी और पासवर्ड",
 "Session Expired, Please Login Again":"सत्र समाप्त हो गया कृपया फिर से लॉगिन करें",
 
-"Log out successfully":"सफलतापूर्वक लॉग आउट"
+"Log out successfully":"सफलतापूर्वक लॉग आउट",
+"Phone No.":"फ़ोन नंबर",
+"Select examTime":"परीक्षा का समय चुनें",
+"Select Subject":"विषय का चयन करें",
+"Select College":"कॉलेज का चयन करें"
+
+
 }   
