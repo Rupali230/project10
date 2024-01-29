@@ -17,7 +17,7 @@ import com.rays.service.CollegeServiceInt;
 
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
