@@ -8,7 +8,7 @@ import javax.persistence.Table;
 
 import com.rays.common.BaseDTO;
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Entity
