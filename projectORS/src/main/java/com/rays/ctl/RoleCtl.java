@@ -16,7 +16,7 @@ import com.rays.form.RoleForm;
 import com.rays.service.RoleServiceInt;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
