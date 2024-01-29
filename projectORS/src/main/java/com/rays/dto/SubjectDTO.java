@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import com.rays.common.BaseDTO;
 
 /**
- * @author Dheeraj Haryani
+ * @author Rupali patel
  *
  */
 @Entity
