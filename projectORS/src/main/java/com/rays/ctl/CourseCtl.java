@@ -18,7 +18,7 @@ import com.rays.service.CourseServiceInt;
 
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
