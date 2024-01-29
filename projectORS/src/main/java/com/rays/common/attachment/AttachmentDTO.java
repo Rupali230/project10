@@ -12,7 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Contains attached file information and data
  * 
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 
 @Entity
