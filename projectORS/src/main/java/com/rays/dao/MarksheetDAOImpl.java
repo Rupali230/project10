@@ -17,7 +17,7 @@ import com.rays.dto.MarksheetDTO;
 import com.rays.dto.StudentDTO;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Repository
