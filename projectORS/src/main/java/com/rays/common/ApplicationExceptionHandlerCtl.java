@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 /**
  * Handles application propagated exceptions
  * 
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @ControllerAdvice // handle exception globally
