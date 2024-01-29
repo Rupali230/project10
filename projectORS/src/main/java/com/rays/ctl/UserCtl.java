@@ -39,7 +39,7 @@ import com.rays.form.UserForm;
 import com.rays.service.RoleServiceInt;
 import com.rays.service.UserServiceInt;
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
