@@ -5,7 +5,7 @@ import javax.persistence.Table;
 
 /**
  * Contains attached file information and data
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 
 @Entity
