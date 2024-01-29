@@ -20,7 +20,7 @@ import javax.persistence.criteria.Root;
 import com.rays.exception.DuplicateRecordException;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  * @param <T>
  */
