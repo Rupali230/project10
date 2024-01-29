@@ -10,7 +10,7 @@ import com.rays.common.BaseDTO;
 
 /**
  * College DTO class
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 
 @Entity
