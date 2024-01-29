@@ -18,7 +18,7 @@ import com.rays.service.CourseServiceInt;
 import com.rays.service.SubjectServiceInt;
 import com.rays.service.TimeTableServiceInt;
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
