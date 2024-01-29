@@ -19,7 +19,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Configuration
