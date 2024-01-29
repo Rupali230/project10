@@ -15,7 +15,7 @@ import com.rays.form.StudentForm;
 import com.rays.service.CollegeServiceInt;
 import com.rays.service.StudentServiceInt;
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @RestController
