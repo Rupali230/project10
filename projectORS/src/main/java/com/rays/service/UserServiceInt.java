@@ -7,7 +7,7 @@ import com.rays.dto.UserDTO;
 /**
  * 
  * User Service interface.
- * @author Basant Vishwakarma
+ * @author Rupali patel
  * 
  */
 
