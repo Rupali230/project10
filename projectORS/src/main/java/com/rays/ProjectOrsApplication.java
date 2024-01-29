@@ -13,7 +13,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.rays.common.FrontCtl;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @SpringBootApplication
