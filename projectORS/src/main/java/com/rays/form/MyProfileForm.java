@@ -8,7 +8,7 @@ import javax.validation.constraints.Pattern;
 
 /**
  * Contains MyProfile for elements and its declarative validation
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 
 public class MyProfileForm {
