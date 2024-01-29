@@ -15,7 +15,7 @@ import com.rays.common.UserContext;
 import com.rays.dto.CollegeDTO;
 import com.rays.dto.StudentDTO;
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Repository
