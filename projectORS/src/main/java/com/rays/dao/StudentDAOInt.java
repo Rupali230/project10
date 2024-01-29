@@ -5,7 +5,7 @@ import com.rays.dto.StudentDTO;
 
 /**
  * Student DAO interface.
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 public interface StudentDAOInt extends BaseDAOInt<StudentDTO> {
 }
