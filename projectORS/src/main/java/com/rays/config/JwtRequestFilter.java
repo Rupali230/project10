@@ -20,7 +20,7 @@ import com.rays.service.JwtUserDetailsService;
 import io.jsonwebtoken.ExpiredJwtException;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Component
