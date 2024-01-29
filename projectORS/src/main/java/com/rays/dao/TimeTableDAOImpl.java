@@ -20,7 +20,7 @@ import com.rays.dto.TimeTableDTO;
 import com.rays.dto.UserDTO;
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Repository
