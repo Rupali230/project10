@@ -5,7 +5,7 @@ import com.rays.dto.CollegeDTO;
 
 /**
  * College DAO interface.
- * @author Basant Vishwakarma
+ * @author Rupali patel
  */
 public interface CollegeDAOInt extends BaseDAOInt<CollegeDTO> {
 }
