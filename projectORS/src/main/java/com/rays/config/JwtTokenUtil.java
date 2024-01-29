@@ -16,7 +16,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 
 
 /**
- * @author Basant Vishwakarma
+ * @author Rupali patel
  *
  */
 @Component
