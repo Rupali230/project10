@@ -50,9 +50,9 @@ public class ProjectOrsApplication extends SpringBootServletInitializer {
 				cors.allowCredentials(true);
 			}
 
-			/**
-			 * Add Interceptors
-			 */
+			
+			  Add Interceptors
+			 
 
 			
 			  @Override public void addInterceptors(InterceptorRegistry registry) {
@@ -60,12 +60,12 @@ public class ProjectOrsApplication extends SpringBootServletInitializer {
 			  "/Auth/**"); }
 			 
 
-			/*
-			 * @Override public void addResourceHandlers(ResourceHandlerRegistry registry) {
-			 * registry.addResourceHandler("/**").addResourceLocations("classpath:/public/")
-			 * ; }
-			 * 
-			 */
+			
+			  @Override public void addResourceHandlers(ResourceHandlerRegistry registry) {
+			  registry.addResourceHandler("/**").addResourceLocations("classpath:/public/")
+			  ; }
+			  
+			 
 
 		};
 
